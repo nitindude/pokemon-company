@@ -1,0 +1,44 @@
+body{
+	padding: 20px;
+	color: #5a5a5a;
+}
+.btn-outline-success {
+    color: white;
+    border-color: white;
+}
+.navbar-wrapper{
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 20;
+}
+.navbar-wrapper > .container{
+	padding-right: 0;
+	padding-left: 0;
+}
+.navbar-wrapper .navbar .container{
+	width: auto;
+}
+.navbar-wrapper .navbar{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.carousel .carousel-item{
+	height: 500px;
+	background-color: #777;
+
+
+
+}
+.carousel-inner > .item > img{
+	position: absolute;
+	height: 500px;
+	min-width: 100px;
+	top: 0;
+	left: 0;
+}
+.carousel{
+	height: 500px;
+	border-top: 50px;
+}
