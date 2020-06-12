@@ -1,5 +1,6 @@
 body{
-	padding: 20px;
+	padding-bottom: 20px;
+
 	color: #5a5a5a;
 }
 .btn-outline-success {
@@ -41,4 +42,24 @@ body{
 .carousel{
 	height: 500px;
 	border-top: 50px;
+
+}
+
+
+.success:hover 
+{background-color: #0b7dda;
+}
+
+.team .col-lg-4{
+	text-align: center;
+	padding-top: 20px;
+
+}
+.team h2{
+	font-size: 25px;
+}
+.team p{
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 15px;
 }
