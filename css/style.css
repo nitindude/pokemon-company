@@ -63,3 +63,18 @@ body{
 	margin-right: 10px;
 	font-size: 15px;
 }
+.carousel-control.left, .carousel-control.right {
+  left: 0;
+  z-index: 1;
+}
+.divider{
+	margin: 40px 0;
+}
+.mic{
+	padding-left: 50px;
+	text-align: center;
+	padding-top: 80px;
+}
+.contant{
+	margin-bottom: 30px;
+}
